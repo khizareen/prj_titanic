@@ -67,7 +67,7 @@ Some columns (like `Name`, `Ticket`, and `Cabin`) were dropped during preprocess
 
 ## How to Run This Project
 Clone the repository:
-git clone (https://github.com/khizareen/prj_titanic).git
+git clone https://github.com/khizareen/prj_titanic.git
 cd titanic
 Install dependencies:
 pip install -r requirements.txt
